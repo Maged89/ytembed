@@ -1,0 +1,1 @@
+Easily embed YouTube functionality on your site by integrating a search query, playlist or your account's videos. Integrate the video player. Page through result. All simple as plug and play. Interested?
